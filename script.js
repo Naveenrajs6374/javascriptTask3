@@ -1,6 +1,5 @@
 // Task 1: Employee Login System
 
-
 let username = prompt("Enter your username")
 let password = prompt("Enter your password")
 
@@ -11,6 +10,7 @@ else
     {
     alert("Invalid Username or Password");
 }
+
 
 
 // Task 2: E-Commerce Discount
@@ -404,7 +404,7 @@ switch (choice) {
 //output : Withdraw
 
 
-
+//Mini Project
 // Employee Management System
 
 let employees = [
